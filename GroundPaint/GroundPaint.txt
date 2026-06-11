@@ -1,0 +1,10 @@
+## Title: GroundPaint
+## APIVersion: 101046
+## DependsOn: LibAddonMenu-2.0
+## SavedVariables: GroundPaintMetaSavedVars GroundPaintAccountSavedVars GroundPaintCharacterSavedVars GroundPaintUserZonesSavedVars
+## Author: |c950000HeiKyoma|r
+## Version: 1.0
+
+Bindings.xml
+GroundPaintDatabase.lua
+GroundPaint.lua
